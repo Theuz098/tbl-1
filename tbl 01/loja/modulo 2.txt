@@ -1,0 +1,8 @@
+a) 
+No Incremental. No primeiro "pedaço" entregue (o carrinho), o cliente já tem algo que funciona e que ele pode usar. No Cascata, ele só vê o sistema pronto no final de todas as etapas, o que demora muito mais.
+
+b)
+No Incremental. Como você desenvolve e testa partes menores o tempo todo, qualquer erro de lógica ou de requisito aparece logo no início. No Cascata, se o plano inicial estiver errado, você só vai descobrir lá no fim, depois de ter gasto todo o tempo e dinheiro.
+
+c) 
+Entregar valor
