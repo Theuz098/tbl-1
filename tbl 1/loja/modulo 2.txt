@@ -1,0 +1,14 @@
+a) Em qual modelo o sistema começou a gerar valor mais rapidamente?
+
+No modelo Incremental, porque já no primeiro incremento o cliente consegue usar uma parte do sistema funcionando.
+No Cascata, o sistema só é entregue no final.
+
+b) Em qual modelo o risco é identificado mais cedo?
+
+No modelo Incremental, porque cada parte entregue pode ser testada e avaliada.
+Assim, problemas são percebidos antes do sistema estar totalmente pronto.
+
+c) O que é mais importante: seguir o modelo rigorosamente ou entregar valor?
+
+Entregar valor é mais importante.
+O modelo ajuda a organizar o trabalho, mas o principal é que o sistema funcione e atenda às necessidades do cliente.mudanças no meio do processo.

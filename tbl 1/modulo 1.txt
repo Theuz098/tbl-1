@@ -1,0 +1,19 @@
+a) 
+
+Primeiro a gente levantou os requisitos, entendendo o que o sistema precisava fazer.
+Depois fizemos a análise e organizamos as ideias, definindo as classes e como elas se relacionariam.
+Em seguida planejamos a estrutura do sistema (como as classes, métodos e atributos funcionariam).
+Depois partimos para a implementação do código.
+Por último, realizamos os testes para verificar se tudo estava funcionando corretamente.
+
+b)
+
+No modelo Cascata, só começamos uma fase depois que a anterior estava totalmente finalizada e revisada.
+Por exemplo, só começamos a programar depois que os requisitos estavam definidos e organizados.
+Isso foi garantido através de revisão do que foi feito e confirmação de que estava completo antes de avançar.
+
+c)
+
+No modelo Cascata, mudanças depois da implementação não são simples.
+O correto seria voltar para a fase de requisitos, atualizar a documentação, refazer o planejamento se necessário e só depois alterar o código.
+Isso pode gerar retrabalho, porque o modelo Cascata não é flexível para mudanças no meio do processo.
