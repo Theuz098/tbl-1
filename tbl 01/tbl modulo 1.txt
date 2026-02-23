@@ -1,0 +1,7 @@
+1- modulo 
+6- 
+a) primeiro definimos o que o sistema ia fazer, depois listamos os requisitos, integrei as classes, escrevemos o código e, por último, rodamos os testes para ver se o total batia.
+
+b)eu só passava para o próximo passo quando o anterior estava completo, entao so comecei a programar depois que o desenho das classes estava pronto e aprovado pelo cliente,pois com isso eu nao precisava  ficar voltando atrás.
+ 
+c) No Cascata eu teria que voltar lá no começo. Precisaria atualizar o documento de requisitos, mudar o desenho do projeto, alterar o código e testar tudo de novo. 
